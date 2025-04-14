@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: beige;
+  }
+
+  input, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    color: black;
+  }
+
+  #resultado {
+    margin-top: 20px;
+    font-weight: bold;
+  }
